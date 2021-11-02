@@ -1,5 +1,5 @@
 # Yamagata-et-al-Hypothalamus-links-arousal-and-sleep-need
-Code generated for Yamagata et al., 2020 titled 'The role of the hypothalamus in cortical arousal and sleep homeostasis'
+Code generated for Yamagata et al., PNAS 2021 titled 'The role of the hypothalamus in cortical arousal and sleep homeostasis in mice'
 
 
 Latency to arousal was determined by EMG variance 
@@ -19,7 +19,7 @@ Latency to arousal was determined by EMG variance
   
 % Latency to Arousal (Awakening delay)
 
-	Fig 1H & Fig S1C, LPO vs nonLPO (NREM vs REM)
+	Fig 1H & Fig S1E, LPO vs nonLPO (NREM vs REM)
 	
 	LPOvsnonLPO_fig1.m
 
@@ -28,15 +28,18 @@ Latency to arousal was determined by EMG variance
 	
 	highLowSleepPressureTArousal_fig2.m
 
-	
-	Fig S3F: Dex sedation
-	
-	sedationTArousal_fig2.m
 
-	
-	Fig 5A: 1,2,5,10,20Hz,sham
+	Fig S2A: 1,2,5,10,20Hz,sham
 	
 	compare1nevs5vs10Hz_V5.m
+	
+	
+	Fig S3G: Dex sedation
+	
+	sedationTArousal.m
+
+	
+
 
 
 Δ∆
